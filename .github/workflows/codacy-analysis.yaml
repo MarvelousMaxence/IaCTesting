@@ -7,4 +7,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Codacy Analysis CLI
-        uses: codacy/codacy-analysis-cli-action@v4.4.0
+        uses: codacy/codacy-analysis-cli-action@master
